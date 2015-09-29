@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite.com/blog/archives/</loc>
+    <loc>http://alok-sm.github.io/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://yoursite.com/blog/</loc>
+    <loc>http://alok-sm.github.io/blog/</loc>
   </url>
   <url>
-    <loc>http://yoursite.com/</loc>
+    <loc>http://alok-sm.github.io/</loc>
   </url>
   <url>
-    <loc>http://yoursite.com/farmalytics/</loc>
+    <loc>http://alok-sm.github.io/farmalytics/</loc>
   </url>
   <url>
-    <loc>http://yoursite.com/blog/categories/</loc>
+    <loc>http://alok-sm.github.io/blog/categories/</loc>
   </url>
   <url>
-    <loc>http://yoursite.com/communityservice/</loc>
+    <loc>http://alok-sm.github.io/communityservice/</loc>
   </url>
   <url>
-    <loc>http://yoursite.com/hackathons/</loc>
+    <loc>http://alok-sm.github.io/hackathons/</loc>
   </url>
   <url>
-    <loc>http://yoursite.com/projects/</loc>
+    <loc>http://alok-sm.github.io/projects/</loc>
   </url>
 </urlset>
