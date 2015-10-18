@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://alok-sm.github.io/</loc>
+  </url>
+  <url>
     <loc>http://alok-sm.github.io/blog/archives/</loc>
   </url>
   <url>
     <loc>http://alok-sm.github.io/blog/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/</loc>
-  </url>
-  <url>
-    <loc>http://alok-sm.github.io/blog/categories/</loc>
+    <loc>http://alok-sm.github.io/work/</loc>
   </url>
   <url>
     <loc>http://alok-sm.github.io/communityservice/</loc>
@@ -19,9 +19,9 @@
     <loc>http://alok-sm.github.io/awards/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/work/</loc>
+    <loc>http://alok-sm.github.io/projects/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/projects/</loc>
+    <loc>http://alok-sm.github.io/blog/categories/</loc>
   </url>
 </urlset>
