@@ -19,15 +19,15 @@
     <loc>http://alok-sm.github.io/awards/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/farmalytics/</loc>
-  </url>
-  <url>
     <loc>http://alok-sm.github.io/projects/</loc>
   </url>
   <url>
     <loc>http://alok-sm.github.io/blog/categories/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/bing/</loc>
+    <loc>http://alok-sm.github.io/redirect/farmalytics/</loc>
+  </url>
+  <url>
+    <loc>http://alok-sm.github.io/redirect/bing/</loc>
   </url>
 </urlset>
