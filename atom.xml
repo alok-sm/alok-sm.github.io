@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Alok Shankar | Hello World!]]></title>
+  <title><![CDATA[Alok Shankar Mysore's small patch of the internet]]></title>
   <link href="http://alok-sm.github.io/atom.xml" rel="self"/>
   <link href="http://alok-sm.github.io/"/>
-  <updated>2015-11-30T17:18:33+05:30</updated>
+  <updated>2015-11-30T17:20:54+05:30</updated>
   <id>http://alok-sm.github.io/</id>
   <author>
-    <name><![CDATA[Alok Shankar]]></name>
+    <name><![CDATA[Alok Shankar Mysore]]></name>
     <email><![CDATA[alok.shankar.m@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
