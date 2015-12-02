@@ -1,33 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://alok-sm.github.io/blog/archives/</loc>
+    <loc>http://aloksm.com/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/blog/</loc>
+    <loc>http://aloksm.com/work/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/work/</loc>
+    <loc>http://aloksm.com/communityservice/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/communityservice/</loc>
+    <loc>http://aloksm.com/awards/</loc>
   </url>
   <url>
-    <loc>http://alok-sm.github.io/</loc>
-  </url>
-  <url>
-    <loc>http://alok-sm.github.io/awards/</loc>
-  </url>
-  <url>
-    <loc>http://alok-sm.github.io/projects/</loc>
-  </url>
-  <url>
-    <loc>http://alok-sm.github.io/blog/categories/</loc>
-  </url>
-  <url>
-    <loc>http://alok-sm.github.io/redirect/farmalytics/</loc>
-  </url>
-  <url>
-    <loc>http://alok-sm.github.io/redirect/bing/</loc>
+    <loc>http://aloksm.com/projects/</loc>
   </url>
 </urlset>
