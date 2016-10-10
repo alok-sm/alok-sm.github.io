@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: 
-
-Sitemap: http://alok-sm.github.io/sitemap.xml 
